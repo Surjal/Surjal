@@ -1,18 +1,18 @@
 
-# Hi there, I'm Adish Dahal! 
+# Hi there, Surjal Shrestha! 
 
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer, Front-End Developer, and UI/UX Designer with years of experience in creating user-focused digital experiences. Here, you'll find my projects, contributions, and a glimpse of my technical journey.
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer, Front-End Developer. Here, you'll find my projects, contributions, and a glimpse of my technical journey.
 
 ---
 
 ## 💼 Experience
 
-### Full Stack Developer @ [Techware Pvt. Ltd.](https://techware.com.np)  
-**Mar 2020 - Present (4 yrs 11 mos)** | Biratnagar, Nepal (On-site)  
+### Full Stack Developer @ [Rato Guras Technology Pvt. Ltd.](https://ratoguras.com/)  
+**Feb 2025 - Present| Biratnagar, Nepal (On-site)  
 - Developed and deployed production-grade software for various industries.
 - Specialized in building scalable and secure web applications.
-- Stack: React.js, Laravel, PHP, MySQL, Bootstrap, and more.
+- Stack: Laravel, PHP, MySQL, Bootstrap, and more.
 
 ### Frontend Developer @ Spatial Geeks  
 **Oct 2021 - Aug 2023 (1 yr 11 mos)** | Remote  
@@ -25,20 +25,13 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer, Front-End D
 ## 🎓 Education
 
 ### Bachelor of Science (BS) in Computer Science  
-**Himalaya Darshan College (2022 - 2026)** | Nepal  
+**Birat Multiple College (2022 - 2026)** | Nepal  
 - Skills: Front-End Development, JavaScript, E-Commerce, C++, HTML, CSS.
 
 ### +2 in Computer Programming  
 **Arniko College BRT (2020 - 2022)** | Nepal  
 - Skills: Front-End Development, Microsoft Office, HTML, CSS, C++.
-
-### Web Development Certification  
-**Techware Pvt. Ltd. (2020)** | Nepal  
-- Grade: A+
-- Developed small products, e-commerce platforms, and other innovative projects.
-
----
-
+  
 ## 🎨 Skills
 
 ### 👨‍💻 Core Languages
